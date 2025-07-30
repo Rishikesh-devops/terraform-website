@@ -7,11 +7,7 @@ This project provisions a fully functional static website hosted on an EC2 insta
 
 ## 🚀 Live Website
 
-🔗 [http://<your-public-ip>](http://<your-public-ip>)
-
-_Replace with your actual EC2 public IP address._
-
----
+🔗 (http://13.232.248.167)
 
 ## 📦 Tech Stack
 
